@@ -1,7 +1,7 @@
 <h1 align="center">About Me: Muhammad Noval</h1>
 
 <p align="center">
-  <em>Software Developer &amp; Cybersecurity Enthusiast · RHCSA Certified</em>
+  <em>Software Developer &amp; Cybersecurity Enthusiast</em>
 </p>
 
 ---
