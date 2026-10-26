@@ -18,7 +18,7 @@ I am a **Software Developer** with a focus on **Cybersecurity and Linux System A
 ## Lets Connect:
 
 <p align="left">
-  <a href="https://portofolio-sanopal.web.app"><img src="https://img.shields.io/badge/PORTFOLIO-181717?style=for-the-badge&logo=firebase&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://muhammadnoval-portofolio.web.app/"><img src="https://img.shields.io/badge/PORTFOLIO-181717?style=for-the-badge&logo=firebase&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/muhammad-noval-15b218292/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/mhd.novaalll/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.tiktok.com/@siovall79"><img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
@@ -70,7 +70,7 @@ I am a **Software Developer** with a focus on **Cybersecurity and Linux System A
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="40" height="40" alt="Wireshark"/>
+      <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="40" height="40" alt="Wireshark"/>
     </td>
   </tr>
   <tr>
@@ -95,12 +95,12 @@ I am a **Software Developer** with a focus on **Cybersecurity and Linux System A
 ## My Statistics:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M-NovalDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M-NovalDev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-NovalDev&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-NovalDev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=M-NovalDev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
